@@ -1,0 +1,68 @@
+body {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  background-color: rgb(255, 255, 255);
+}
+h1 {
+  text-align: center;
+}
+
+.ex {
+  background-color: skyblue;
+  border: 20px solid lightblue;
+  padding: 20px;
+  margin: 20px;
+  display: inline-block;
+  width: 350px;
+}
+
+#mission3 {
+  background-color: skyblue;
+  border: 20px solid lightblue;
+  padding: 20px;
+  text-align: center;
+  width: 100px;
+  display: block;
+  margin-inline: auto;
+}
+
+.head {
+  background-color: rgb(0, 128, 255);
+  border: 1px solid rgb(0, 0, 0);
+  text-align: center;
+  padding: 15px;
+  height: 100px;
+}
+
+.foot {
+  background-color: rgb(118, 77, 221);
+  border: 1px solid rgb(0, 0, 0);
+  text-align: center;
+  display: block;
+  text-align: center;
+  height: 100px;
+}
+
+main {
+  display: block;
+  background-color: lightslategrey;
+  height: 200px;
+  text-align: center;
+}
+
+.left {
+  display: inline-block;
+  width: 20%;
+  border: 1px solid black;
+  height: 200px;
+  background-color: chocolate;
+  text-align: center;
+}
+
+.right {
+  display: inline-block;
+  width: 79%;
+  border: 1px solid black;
+  height: 200px;
+  background-color: rgb(246, 72, 72);
+  text-align: center;
+}
