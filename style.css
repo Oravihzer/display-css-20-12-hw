@@ -18,6 +18,7 @@ h1 {
   margin: 20px;
   display: inline-block;
   width: 350px;
+  font-size: 0;
 }
 
 h2 {
@@ -31,6 +32,7 @@ h2 {
   width: 100px;
   display: block;
   margin-inline: auto;
+  font-size: 0;
 }
 
 .head {
@@ -39,6 +41,7 @@ h2 {
   text-align: center;
   padding: 15px;
   height: 100px;
+  font-size: 0;
 }
 
 .foot {
@@ -48,6 +51,7 @@ h2 {
   display: block;
   text-align: center;
   height: 100px;
+  font-size: 0;
 }
 
 main {
@@ -55,6 +59,7 @@ main {
   background-color: rgb(0, 0, 0);
   height: 200px;
   text-align: center;
+  font-size: 0;
 }
 
 .left {
@@ -63,6 +68,7 @@ main {
   height: 200px;
   background-color: chocolate;
   text-align: center;
+  font-size: 0;
 }
 
 .right {
@@ -71,5 +77,5 @@ main {
   height: 200px;
   background-color: rgb(246, 72, 72);
   text-align: center;
-  float: right;
+  font-size: 0;
 }
